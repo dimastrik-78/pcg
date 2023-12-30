@@ -1,0 +1,8 @@
+2023/12/26-12:24:29.031 7128 Reusing MANIFEST C:/zWork/Unreal Projects/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/26-12:24:29.038 7128 Recovering log #3
+2023/12/26-12:24:29.039 7128 Level-0 table #3: started
+2023/12/26-12:24:29.044 7128 Level-0 table #3: 14826 bytes OK
+2023/12/26-12:24:29.050 7128 Recovering log #4
+2023/12/26-12:24:29.050 7128 Reusing old log C:/zWork/Unreal Projects/MyProject/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/12/26-12:24:29.055 7128 Delete type=0 #3
+2023/12/26-12:24:29.056 7128 Delete type=2 #5
